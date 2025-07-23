@@ -130,7 +130,10 @@ Highest Profit-Generating Products:
 3. Sales dip in January, February, and October. 
 4. Electronics excel in Airport and Commercial locations, while Toys dominate Downtown and Residential areas.
 
-#### Strategic Recommendations: 
+### Strategic Recommendations: 
 1. Expand investment in Downtown stores to capitalize on high profitability. 
 2. Investigate low sales in January and February to identify and mitigate potential market challenges. 
 3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal stock levels.
+
+### References
+[Maven Toys Store Dataset](https://docs.google.com/spreadsheets/d/1yC1bmdjgew3q72NZ8p2mVF_UgGV7-M7Y/edit?usp=sharing&ouid=101338941770567628635&rtpof=true&sd=true)
