@@ -3,7 +3,7 @@
 
 ## Table of Content
 
-- [Project Overview](https://github.com/Icemma/PowerBi-project/edit/main/README.md#project-overview)
+- [Project Overview](#project-overview)
 - [Objective](#objectives)
 - [Key Business Questions](#KeyBusinessQuestions)
 - [Recommendation](#recommendation)
