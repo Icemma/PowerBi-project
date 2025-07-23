@@ -5,8 +5,13 @@
 
 - [Project Overview](#project-overview)
 - [Objective](#objectives)
-- [Key Business Questions](#KeyBusinessQuestions)
-- [Recommendation](#recommendation)
+- [Key Business Questions](#key-business-questions)
+- [Tools and Methodologies](#tools-and-methodologies)
+- [Data Processing ](#data-processing)
+- [Data Modeling](#data-modeling)
+- [Key Insights](#key-insights)
+- [Summary & Recommendations](#summary-&-recommendations)
+- [References](#references)
 
 
 ## Project Overview
