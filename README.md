@@ -83,6 +83,8 @@ Highest Profit-Generating Products:
   - Barrel O’Slime - 91K units
   - Deck of Cards - 84K units
   - Magic Sand - 61K units
+
+![image alt](https://github.com/Icemma/PowerBi-project/blob/c1ee57ca44f4f0df1d08836ca74ff7a1fb1f8129/Screenshot%202025-07-23%20141658.png)
     
  **Notably, Playdoh Can ranks high in sales volume but not in profitability.**
 
