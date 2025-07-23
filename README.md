@@ -1,6 +1,16 @@
 # Mavin Toy Store Business Analysis
 
 
+
+## Project Overview
+This analysis evaluates sales and inventory data from Maven Toy Store, a toy retail chain in Mexico. Using Microsoft Power BI, key insights were derived on product profitability, store performance, seasonal trends, and inventory management. Findings revealed that Toys and Electronics drive the highest profits, with Downtown stores performing best. Sales peak between March and July, while October sees the lowest revenue. Inventory analysis indicates stock will last 15-17 days. Recommendations include optimizing inventory, investing in high-performing locations, and addressing seasonal sales fluctuations to enhance profitability and business growth. 
+
+
+
+![image alt](https://github.com/Icemma/PowerBi-project/blob/84245cbe63b28fe4ca3168167da1c13757a50a4e/Screenshot%202025-07-23%20141510.png)
+
+
+
 ## Table of Content
 
 - [Project Overview](#project-overview)
@@ -13,11 +23,6 @@
 - [Summary & Recommendations](#summary-&-recommendations)
 - [References](#references)
 
-
-## Project Overview
-This analysis evaluates sales and inventory data from Maven Toy Store, a toy retail chain in Mexico. Using Microsoft Power BI, key insights were derived on product profitability, store performance, seasonal trends, and inventory management. Findings revealed that Toys and Electronics drive the highest profits, with Downtown stores performing best. Sales peak between March and July, while October sees the lowest revenue. Inventory analysis indicates stock will last 15-17 days. Recommendations include optimizing inventory, investing in high-performing locations, and addressing seasonal sales fluctuations to enhance profitability and business growth. 
-
-![image alt](https://github.com/Icemma/PowerBi-project/blob/84245cbe63b28fe4ca3168167da1c13757a50a4e/Screenshot%202025-07-23%20141510.png)
 
  
 ## Objectives
